@@ -1,0 +1,17 @@
+_Admin_
+1. As an administrator, I want users to sign up and login to the website so that they are authenticated users.
+2. As an administrator, I want to restrict trading of items to only one active trade per user so that users one trade is done before they can make another trade.
+
+_The person who starts the trade_
+1. As a trader, I want to exchange my item for another suitable item I like by filling up a form so that I can display information about me and what I want in exchange for the item I am willing to exchange.
+2. As a trader, I want to receive a notification is someone has accepeted my offer so that I know that my request has been responded to.
+3. As a trader, I want to confirm that I have received the other item I had traded for so that the other trader will know that their item has reached the user.
+4. As a trader, I would like to thank the other trader who had accepeted my trade so that they know the gratitude I feel for them.
+
+_The other person who accepts the trade_
+1. As a trader, I want to look at all the active exchange requests by different people so that I can read details on what the other person wants in exchange of his item.
+2. As a trader, I want to filter the exchange requests using trade search field so that I can look at exchange requests for only items which I have.
+3. As a trader, I want to look at the address of people making exchange requests so that I can send the item to them by post.
+4. As a trader, I want to have a choice to pay for and send the item through online services like amazon so that I can send some one the item even if I don't have it.
+5. As a trader, I want to send an update to the other trader that I have sent them the item so that the user knows that their request has been fulfilled.
+6. As a trader, I want to be notified if user has received the item we exchanged so that I know that the item has reached them.
